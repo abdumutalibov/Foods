@@ -6,10 +6,10 @@
   --second-bg: #fafafb;
   --txt-color: #455560;
   --txt-white: #fff;
-  /* --main-color: #349eff; */
-  --main-color: red;
-  /* --second-color: #62b4ff; */
-  --second-color: #09fc29;
+  --main-color: #349eff;
+  /* --main-color: red; */
+  --second-color: #62b4ff;
+  /* --second-color: #09fc29; */
 --box-shadow: rgba(149,157,165, 0.2) 0px 8px 24px;
 
   --sidebar-width: 300px;
