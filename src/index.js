@@ -8,7 +8,7 @@ import './assets/css/grid.css'
 import './assets/css/index.css'
 
 import Layout from './components/layout/Loyout'
-document.title='Hey hey duzryashki'
+document.title='React-Project'
 ReactDOM.render(
   <React.StrictMode>
     <Layout />
