@@ -41,6 +41,7 @@ font-size: 0.8rem;
     transform-origin: top right;
     transform: scale(0);
     transition: transform 0.3s ease 0s;
+    transition: transform 0.3s ease 0s;
     
 
 }
